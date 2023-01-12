@@ -14,7 +14,7 @@ layout: default
 >  
 > Proofreading and translation || Project management || Team building and training 
 > 
-> HTML, CSS, JavaScript, Markdown 
+> HTML || CSS || JavaScript || Markdown 
 
 #### EXPERIENCE 
 
