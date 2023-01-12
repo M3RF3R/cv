@@ -51,14 +51,14 @@ layout: default
 
 #### STUDIES 
 
-Codeacademy; online - JavaScript beginners course, 2022. <br>
-UNIR; online – Primary Teaching degree; English (9,14), 2022 <br>
-UNIR; online - University expert course CLIL methodology (9,6), 2020 <br>
-Cambridge; IML, Granada - CELTA course (Pass B), 2014 <br>
-UNIA, Sevilla - Masters degree in R&D project management, 2010 <br>
-FAFE, Granada - Graphic design technician, 2009 <br>
-Is. Rizzoli, Milan - Online and Offline Advertising and Editorial Graphic Technique Course, 2008 <br>
-UCM, Madrid - Degree in Publicity and Public Relations, 2007 <br>
+Codeacademy; online - **JavaScript beginners course**, 2022. <br>
+UNIR; online – **Primary Teaching degree**; English (9,14), 2022 <br>
+UNIR; online - **University expert course CLIL methodology** (9,6), 2020 <br>
+Cambridge; IML, Granada - **CELTA course** (Pass B), 2014 <br>
+UNIA, Sevilla - **Masters degree in R&D project management**, 2010 <br>
+FAFE, Granada - **Graphic design technician**, 2009 <br>
+Is. Rizzoli, Milan - **Online and Offline Advertising and Editorial Graphic Technique Course**, 2008 <br>
+UCM, Madrid - **Degree in Publicity and Public Relations**, 2007 <br>
 
 #### LANGUAGES 
 
