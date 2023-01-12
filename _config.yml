@@ -21,7 +21,7 @@
 title: 🖥️ 🖥️
 email: your-email@example.com
 description: >- # this means to ignore newlines until "baseurl:"
-  my digital cv.
+  My digital cv.
 
 twitter_username: jekyllrb
 github_username:  jekyll
