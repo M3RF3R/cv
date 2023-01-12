@@ -10,9 +10,11 @@ layout: default
 
 #### SKILLS 
 
-> Content creation || Proofreading and translation || Project management || Team building and training 
+> Content creation || Adobe Creative Suite || Microsoft Office
+>  
+> Proofreading and translation || Project management || Team building and training 
 > 
-> HTML, CSS, JavaScript, Markdown || Adobe Creative Suite || Microsoft Office 
+> HTML, CSS, JavaScript, Markdown 
 
 #### EXPERIENCE 
 
