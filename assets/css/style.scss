@@ -2,10 +2,13 @@
 ---
 
 @import "{{ site.theme }}";
+head {
+ background-color:#494949
+}
 tbody {
  background-color:#b0bec5
 }
 td{
- text-align: center;
+ text-align: left;
  color:#ffffff;
 }
