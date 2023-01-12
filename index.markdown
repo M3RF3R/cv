@@ -4,9 +4,9 @@
 
 layout: default
 ---
-# Mercedes Fernández - Valmayor Guinea 
+# Mercedes Fdez - Valmayor Guinea 
 
-![LinkedingLOGO](https://github.com/M3RF3R/mfvalmayor_digitalCV/issues/4#issue-1528690038) [Linkedin](www.linkedin.com/in/mercedes-fdz-valmayor-guinea-00068a1a3)
+[Linkedin](www.linkedin.com/in/mercedes-fdz-valmayor-guinea-00068a1a3)
 
 #### SKILLS 
 
