@@ -22,7 +22,8 @@ layout: default
 
 - Providing training and support for a team of 25 teachers.
 - Course planning and material selection
-- Investigation and implementation of novel ICT tools for educational purposes. Developing, documenting and implementing teaching methodologies.
+- Investigation and implementation of novel ICT tools for educational purposes.
+- Developing, documenting and implementing teaching methodologies.
 - Design, management and implementation of the adaptation plan for the new academic curriculum. 
 
 **Online materials developer, INLINGUA; Granada. 2020 - present** 
@@ -32,8 +33,9 @@ layout: default
 **ESL Teacher, INLINGUA; Granada. 2014 - present** 
 
 - Experience teaching online classes using zoom to children ages 6 to 12 using both online and physical materials. 
-- Teaching children ages 4 to 12 using both the INLINGUA and Cambridge methods and materials, as well as developing my own methodologies and materials. Providing Cambridge Exam training (Starters, Movers and Flyers)
-- Extensive and intensive courses for adults. Cambridge, Trinity. A1- C1 
+- Teaching children ages 4 to 12 using both the INLINGUA and Cambridge methods and materials, as well as developing my own methodologies and materials. 
+- Providing Cambridge Exam training (Starters, Movers and Flyers).
+- Extensive and intensive courses for adults. Cambridge, Trinity. A1- C1. 
 
 **Academic translator and proofreader, El Caño archaeological project; 2014 - 2018** 
 
@@ -46,7 +48,9 @@ layout: default
 **Project manager, graphic designer and administration, LAIMAT; Granada 2009 - 2012** 
 
 - Managing national and international biotechnology research projects.
-- Produced content for national conferences, promotional materials, product sheets. Responsible for the redesign and maintenance of the company website (HTML, CSS). Branding and advertising.
+- Produced content for national conferences, promotional materials, product sheets. 
+- Responsible for the redesign and maintenance of the company website (HTML, CSS). 
+- Branding and advertising.
 - Administration duties. 
 
 #### STUDIES 
