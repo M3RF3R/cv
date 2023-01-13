@@ -12,7 +12,7 @@
 >  
 > Corrección de pruebas y tradución || Gestión de Proyectos || Formación y creación de equipos
 > 
-> HTML || CSS || JavaScript || Markdown || Git
+> HTML & CSS || JavaScript || Markdown || Git
 
 #### EXPERIENCIA 
 
