@@ -6,7 +6,7 @@ layout: default
 ---
 # Mercedes Fdez - Valmayor Guinea  
 
-![LinkedinLOGO]()[Linkedin](http://www.linkedin.com/in/mercedes-fdz-valmayor-guinea-00068a1a3)   [Spanish](spanishcv.md)
+![LinkedinLOGO](./assets/img/LinkedinIMG.png)[Linkedin](http://www.linkedin.com/in/mercedes-fdz-valmayor-guinea-00068a1a3)   [Spanish](spanishcv.md)
 
 #### SKILLS 
 
