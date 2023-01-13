@@ -3,7 +3,8 @@
 
 # Mercedes Fdez - Valmayor Guinea  [![EnglishLOGO](./assets/img/english.png)](index.markdown)
 
-[Linkedin](http://www.linkedin.com/in/mercedes-fdz-valmayor-guinea-00068a1a3)  
+
+[![LinkedinLOGO](./assets/img/LinkedinIMG.png)](http://www.linkedin.com/in/mercedes-fdz-valmayor-guinea-00068a1a3) 
 
 #### HABILIDADES 
 
