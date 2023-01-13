@@ -22,7 +22,12 @@ title: 🖥️ 🖥️
 email: your-email@example.com
 description: >- # this means to ignore newlines until "baseurl:"
   My digital cv.
-
+  
+footer: 
+ links:
+   - label: Icons created by Freepik
+   - url: "https://www.flaticon.com/free-icons/spanish" 
+   
 twitter_username: jekyllrb
 github_username:  jekyll
 
