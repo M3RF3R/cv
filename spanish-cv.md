@@ -1,7 +1,5 @@
 
-layout: page
-title: "spanish-cv"
-permalink: https://M3RF3R.github.io/spanish-cv.md)
+
 
 # Mercedes Fdez - Valmayor Guinea  
 
