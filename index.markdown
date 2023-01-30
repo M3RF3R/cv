@@ -55,6 +55,7 @@ layout: default
 
 #### STUDIES 
 
+Codeacademy; online - **Git and Github course**, 2023. <br>
 Codeacademy; online - **JavaScript beginners course**, 2022. <br>
 UNIR; online – **Primary Teaching degree**; English (9,14), 2022 <br>
 UNIR; online - **University expert course CLIL methodology** (9,6), 2020 <br>
