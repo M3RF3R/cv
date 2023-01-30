@@ -54,6 +54,8 @@
 
 #### ESTUDIOS 
 
+
+Codeacademy; online - **Curso Git y Github**, 2023. <br>
 Codeacademy; online - **JavaScript curso principiantes**, 2022. <br>
 UNIR; online – **Grado Maestro de Educación Primaria** mención inglés (9.14), 2022 <br>
 UNIR; online - **Curso Experto Universitario en Metodología AICLE** (9,6), 2020 <br>
