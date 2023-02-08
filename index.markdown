@@ -18,6 +18,12 @@ layout: default
 
 #### EXPERIENCE 
 
+**Technical writer, Codecademy;2022 - present** 
+
+- Creating entries about programming languages for their docs repository.
+- Use of git, github and markdown.
+- Open source - volunteer work.
+
 **Young Learners Coordinator, INLINGUA; Granada. 2015 - present** 
 
 - Providing training and support for a team of 25 teachers.
