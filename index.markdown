@@ -24,7 +24,11 @@ layout: default
 - Use of git, github and markdown.
 - Open source - volunteer work.
 
-**Young Learners Coordinator, INLINGUA; Granada. 2015 - present** 
+**Online materials developer and content creator, INLINGUA; Granada. 2020 - 2023** 
+
+- Development of online materials for English classes with different programs like genial.ly, google docs, canva. 
+
+**Young Learners Coordinator, INLINGUA; Granada. 2015 - 2023** 
 
 - Providing training and support for a team of 25 teachers.
 - Course planning and material selection
@@ -32,11 +36,7 @@ layout: default
 - Developing, documenting and implementing teaching methodologies.
 - Design, management and implementation of the adaptation plan for the new academic curriculum. 
 
-**Online materials developer, INLINGUA; Granada. 2020 - present** 
-
-- Development of online materials for English classes with different programs like genial.ly, google docs, canva. 
-
-**ESL Teacher, INLINGUA; Granada. 2014 - present** 
+**ESL Teacher, INLINGUA; Granada. 2014 - 2023** 
 
 - Experience teaching online classes using zoom to children ages 6 to 12 using both online and physical materials. 
 - Teaching children ages 4 to 12 using both the INLINGUA and Cambridge methods and materials, as well as developing my own methodologies and materials. 
