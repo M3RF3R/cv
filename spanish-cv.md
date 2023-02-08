@@ -16,7 +16,17 @@
 
 #### EXPERIENCIA 
 
-**Coordinadora de infantil y primaria, INLINGUA; Granada. 2015 - presente** 
+**Escritor técnico, Codecademy;2022 - presente**
+
+- Creación de entradas sobre lenguajes de programación para su repositorio de documentación.
+- Uso de git, github y markdown.
+- Trabajo voluntario - open source.
+
+**Desarrollo de materiales digitales y creación de contenido; Granada. 2020 - 2023** 
+
+- Desarrollo de materiales en linea para clases de Inglés usando diferentes programas como genil.ly, google docs o canva.
+
+**Coordinadora de infantil y primaria, INLINGUA; Granada. 2015 - 2023** 
 
 - Formación y apoyo a un equipo de 25 trabajadores.
 - Planificación del curso y selección de materiales.
@@ -24,11 +34,7 @@
 - Desarrollo, documentación e implementación de metodologías educativas.
 - Diseño, gestión e implementación del plan de adaptación para el nuevo currículo académico. 
 
-**Desarrollo de materiales digitales; Granada. 2020 - presente** 
-
-- Desarrollo de materiales en linea para clases de Inglés usando diferentes programas como genil.ly, google docs o canva.
-
-**Profesora de inglés. Alumnos infantil y primaria, INLINGUA; Granada. 2014 - presente** 
+**Profesora de inglés. Alumnos infantil y primaria, INLINGUA; Granada. 2014 - 2023** 
 
 - Experiencia impartiendo clases en linea a través de zoom a estudiantes de 6 a 12 años usando materiales físicos y digitales.
 - Enseñanza a niños de 4 a 12 años usando tanto el método y materiales INLINGUA como Cambridge, a la vez que desarrollando mis propias metodologías y materiales. 
