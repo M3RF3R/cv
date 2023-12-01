@@ -18,7 +18,17 @@ layout: default
 
 #### EXPERIENCE 
 
-**Technical writer, Codecademy;2022 - present** 
+**Technical writer, Unit4;2022 - present** 
+
+-   Document new product features for both internal and external use as a Technical Writer.
+-   Use of Markdown to create documentation.
+-   Employ mkdocs to develop a static site for an external documentation portal.
+-   Revise and enhance existing documentation materials.
+-   Contribute to the improvement of the documentation site and documentation procedures.
+-   Engage actively in Agile teams.
+-   Collaborate using Azure as part of the work process.
+
+**Technical writer, Codecademy;2022** 
 
 - Creating entries about programming languages for their docs repository.
 - Use of git, github and markdown.
