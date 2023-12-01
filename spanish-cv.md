@@ -12,11 +12,21 @@
 >  
 > Corrección de pruebas y tradución || Gestión de Proyectos || Formación y creación de equipos
 > 
-> HTML & CSS || JavaScript || Markdown || Git
+> HTML & CSS || JavaScript || Markdown || Git || MadCap Flare
 
 #### EXPERIENCIA 
 
-**Escritor técnico, Codecademy;2022 - presente**
+**Escritora técnica, Unit4;2022 - presente**
+
+- Documentar nuevas características de productos tanto para uso interno como externo como Redactor Técnico.
+- Utilizar Markdown para crear documentación.
+- Emplear mkdocs para desarrollar un sitio estático para un portal de documentación externo.
+- Revisar y mejorar los materiales de documentación existentes.
+- Contribuir a la mejora del sitio de documentación y los procedimientos de documentación.
+- Participar activamente en equipos Agile.
+- Colaborar utilizando Azure como parte del proceso de trabajo.
+   
+**Escritora técnica, Codecademy;2022**
 
 - Creación de entradas sobre lenguajes de programación para su repositorio de documentación.
 - Uso de git, github y markdown.
